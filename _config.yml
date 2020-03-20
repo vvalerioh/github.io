@@ -7,15 +7,15 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Edit _config.yml to set your title!
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
-github_username: jph00
+description: This is Valerie Valerio's academic website. 
+github_username: vvlaerioh
 
 # Email and twitter are optional:
-email:
-twitter_username:
+email: valerievalerioh@gmail.com
+twitter_username: v_valerioh
 
 # Set this to true to get LaTeX math equation support
-use_math:
+use_math: T
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
